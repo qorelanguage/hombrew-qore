@@ -1,6 +1,6 @@
-# Qore Tap from Homebrew
+# Qore Tap for Homebrew
 
-# Install latest stable
+## Install latest stable
 
 ```
 brew tap qorelanguage/qore
@@ -8,7 +8,7 @@ brew update
 brew install qore
 ```
 
-# Install head
+## Install head
 
 ```
 brew tap qorelanguage/qore
